@@ -1,8 +1,8 @@
 package goca
 
 /*
-#cgo CFLAGS: -I . -I /Users/mgibbs/Downloads/base-3.14.12.4/include -I /Users/mgibbs/Downloads/base-3.14.12.4/include/os/Darwin
-#cgo LDFLAGS: -L/Users/mgibbs/Downloads/base-3.14.12.4/lib/darwin-x86 -lca -lcom
+#cgo CFLAGS: -I . -I /home/sofian/epics/epics-base/include -I /home/sofian/epics/epics-bas/include/os/linux
+#cgo LDFLAGS: -L/home/sofian/epics/epics-base/lib/linux-x86_64 -lca -lcom
 #include "cago.h"
 #include "cadef.h"
 */
