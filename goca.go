@@ -1,8 +1,8 @@
 package goca
 
 /*
-#cgo CFLAGS: -I . -I "${EPICS_BASE}/include" -I "${EPICS_BASE}/include/os/Linux"
-#cgo LDFLAGS: -L"${EPICS_BASE}/lib/${EPICS_HOST_ARCH}" -lca -lcom
+#cgo CFLAGS: -I . -I "${EPICS_BASE}"/include -I "${EPICS_BASE}"/include/os/Linux
+#cgo LDFLAGS: -L"${EPICS_BASE}"/lib/"${EPICS_HOST_ARCH}" -lca -lcom
 #include "cago.h"
 #include "cadef.h"
 */
