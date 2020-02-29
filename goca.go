@@ -1,7 +1,7 @@
 package goca
 
 /*
-#cgo CFLAGS: -I . -I /home/sofian/epics/epics-base/include -I /home/sofian/epics/epics-base/include/os/Linux
+#cgo CFLAGS: -I . -I /home/sofian/epics/epics-base/include -I /home/sofian/epics/epics-base/include/os/Linux -I /home/sofian/epics/epics-base/include/compiler/gcc
 #cgo LDFLAGS: -L/home/sofian/epics/epics-base/lib/linux-x86_64 -lca -lcom
 #include "cago.h"
 #include "cadef.h"
